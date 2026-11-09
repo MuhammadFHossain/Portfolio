@@ -73,6 +73,10 @@ Quotes are the author's own words.
   Big Hero 6."
 - How: he holds something so the kid can get through, "with him trying but it
   just doesn't work. It's almost hopeful it will, but it's just not enough."
+- His death is not left in doubt: "he does die, it's clear, or it's basically
+  understood there's no way."
+- The kid is swept away too, far, and is lost. He survived "because of a
+  sacrifice of the brother".
 
 **Right after the brother dies**
 
@@ -120,8 +124,7 @@ Quotes are the author's own words.
    stretch after the storm.
 3. What the sacrifice at the end is, and what it is for. It is not a death.
 4. What happens to the orphan.
-5. Whether the kid sees his brother die, or is swept away not knowing. How
-   early in the game this happens.
+5. How long the player gets with the brother before the storm.
 6. With no villain, what stands in his way on the road home.
 7. Who the friends on the road are.
 8. What the player does from moment to moment.
@@ -147,9 +150,8 @@ Ideas that are not decided. Most came from Claude.
   that." (Brainstorm.) Keep the picture: a huge storm, one brother in it, the
   other unable to reach him. Avoid what people hated: a death the watcher could
   have stopped, and a reason too small for the cost.
-- "Maybe even swept away far, lost." (Brainstorm.) Claude thinks it works: it
-  explains why the way back is hard when getting there wasn't, and the player
-  is lost along with him. The first thing he does is check the satchel.
+- The first thing he does after the storm is check the satchel. (Claude's
+  idea.)
 - Around the brother's death (brainstorm). The kid is already carrying the
   item, so saving the kid saves both. The player does the holding as the
   brother, then becomes the kid. He jokes to keep the kid calm, right to the
