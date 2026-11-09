@@ -8,6 +8,9 @@ Only the author moves something to decided.
 - One small question at a time. Half an answer is fine, and so is "I don't know yet."
 - The author's words first. Claude says back what it heard before adding anything.
 - Claude asks before offering ideas, and offers one or two plain ones.
+- When the author says "maybe", it is a brainstorm: Claude joins in with plain
+  ideas and an honest opinion. Nothing from a brainstorm is decided until the
+  author says so.
 - When something feels off, we stop there.
 - Scenes before plot.
 - No building until the author says so.
@@ -109,6 +112,10 @@ Ideas that are not decided. Most came from Claude.
   to get there and it wasn't so hard, and now he is stuck there and has to make
   it back." Like the Spider-Verse scene where the older Spider-Man saves Miles
   and Miles still has to escape. (Author's maybe.)
+- Who the brothers are (brainstorm): "maybe they are both orphans, or maybe
+  their mother asked them to do something", "maybe they are poor". Claude leans
+  to a poor mother at home who sends them on an ordinary errand, because it
+  gives him someone to come home to.
 - A loop: the ending starts someone else's journey. (The author floated "a loop
   sort of thing to start again"; its shape is undecided.)
 - The brothers leave home to find food for the family.
