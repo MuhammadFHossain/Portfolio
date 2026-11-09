@@ -131,9 +131,13 @@ Ideas that are not decided. Most came from Claude.
 - The accident: "kind of like Man of Steel tornado maybe, but people hate
   that." (Brainstorm.) Keep the picture: a huge storm, one brother in it, the
   other unable to reach him. Avoid what people hated: a death the watcher could
-  have stopped, and a reason too small for the cost. One plain version: the
-  brother gets the kid clear, goes back for the item, gets it to him, and is
-  taken.
+  have stopped, and a reason too small for the cost.
+- How the brother saves him (brainstorm). The kid is already carrying the
+  item, so saving the kid saves both. It has to be a choice, with room for only
+  one. Two plain ways: he gets the kid into the only shelter, which fits one;
+  or he holds something up with his strength so the kid can get through, and
+  can't let go. The player does it as the brother, then becomes the kid. He
+  jokes to keep the kid calm, right to the end.
 - A loop: the ending starts someone else's journey. (The author floated "a loop
   sort of thing to start again"; its shape is undecided.)
 - The kid teaches the orphan what his brother taught him.
