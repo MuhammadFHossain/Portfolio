@@ -31,6 +31,8 @@ Quotes are the author's own words.
 - Frodo returning to the Shire: "nobody knows what just happened, and nobody
   will really understand."
 - "The return gets you back to humility and base."
+- "The sacrifice at the end can't be her dying too, or even him." The brother's
+  is the only death of the three.
 
 **The game**
 
@@ -67,6 +69,7 @@ Quotes are the author's own words.
 
 - A mother is waiting at home. "She is very sick. He can't lose them both, and
   the player can't allow that."
+- The brothers' trip "was to get something to use to save her."
 
 **The orphan**
 
@@ -94,7 +97,7 @@ Quotes are the author's own words.
 1. What "give it all up" means for powers that are inside a person, or
    borrowed.
 2. What the kid does first, right after his brother dies.
-3. What he gives everything up for at the end.
+3. What the sacrifice at the end is, and what it is for. It is not a death.
 4. What happens to the orphan.
 5. How the brother dies, how early, and what the kid does in that moment.
 6. What the accident is, and why the brothers are away from home.
@@ -102,9 +105,8 @@ Quotes are the author's own words.
 8. What the player does from moment to moment.
 9. The look of the world, and names.
 10. Who has powers, and how one gets uncovered.
-11. Where "there" is: the place the brothers set out to reach, and whether the
-    trip is for their mother.
-12. Whether he gets home in time, and whether his mother lives.
+11. Where "there" is, and what the something that can save her is.
+12. Whether the kid has it with him when his brother dies.
 
 ## Parked
 
@@ -119,12 +121,9 @@ Ideas that are not decided. Most came from Claude.
   to get there and it wasn't so hard, and now he is stuck there and has to make
   it back." Like the Spider-Verse scene where the older Spider-Man saves Miles
   and Miles still has to escape. (Author's maybe.)
-- "Maybe their mother asked them to do something", "maybe they are poor".
-  (Brainstorm.) One plain version: she sends them to a town to sell the last
-  thing they have and bring back food.
+- "Maybe they are poor." (Brainstorm.)
 - A loop: the ending starts someone else's journey. (The author floated "a loop
   sort of thing to start again"; its shape is undecided.)
-- The brothers leave home to find food for the family.
 - The kid teaches the orphan what his brother taught him.
 - The kid froze when his brother died and thinks he is a coward.
 - His journal leaves himself out. Strangers tell his story and he doesn't
@@ -139,5 +138,6 @@ Ideas that are not decided. Most came from Claude.
   Too forced.
 - Friends on the road each handing him a gift.
 - Both brothers being orphans. A mother waiting at home felt right.
+- The trip being for food. It is to get something to save their mother.
 - Earlier directions: Slivers (a life seen through windows), The Night Ferry,
   The Courier, the guardian's oath.
