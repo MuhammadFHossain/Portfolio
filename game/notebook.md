@@ -71,6 +71,8 @@ Quotes are the author's own words.
 - What kills him is "the world, something by accident". Nobody is to blame.
   There is no revenge arc: "the revenge arc would suck, and becomes closer to
   Big Hero 6."
+- How: he holds something so the kid can get through, "with him trying but it
+  just doesn't work. It's almost hopeful it will, but it's just not enough."
 
 **The mother**
 
@@ -107,14 +109,15 @@ Quotes are the author's own words.
 2. What the kid does first, right after his brother dies.
 3. What the sacrifice at the end is, and what it is for. It is not a death.
 4. What happens to the orphan.
-5. What the accident looks like, how early it happens, and what the kid does
-   in that moment.
+5. What the kid does once he is through, and how early in the game this
+   happens.
 6. With no villain, what stands in his way on the road home.
 7. Who the friends on the road are.
 8. What the player does from moment to moment.
 9. The look of the world, and names.
 10. Who has powers, and how one gets uncovered.
 11. Where "there" is, and what the something that can save her is.
+12. How the player knows that nothing they did could have saved the brother.
 ## Parked
 
 Ideas that are not decided. Most came from Claude.
@@ -132,12 +135,10 @@ Ideas that are not decided. Most came from Claude.
   that." (Brainstorm.) Keep the picture: a huge storm, one brother in it, the
   other unable to reach him. Avoid what people hated: a death the watcher could
   have stopped, and a reason too small for the cost.
-- How the brother saves him (brainstorm). The kid is already carrying the
-  item, so saving the kid saves both. It has to be a choice, with room for only
-  one. Two plain ways: he gets the kid into the only shelter, which fits one;
-  or he holds something up with his strength so the kid can get through, and
-  can't let go. The player does it as the brother, then becomes the kid. He
-  jokes to keep the kid calm, right to the end.
+- Around the brother's death (brainstorm). The kid is already carrying the
+  item, so saving the kid saves both. The player does the holding as the
+  brother, then becomes the kid. He jokes to keep the kid calm, right to the
+  end.
 - A loop: the ending starts someone else's journey. (The author floated "a loop
   sort of thing to start again"; its shape is undecided.)
 - The kid teaches the orphan what his brother taught him.
