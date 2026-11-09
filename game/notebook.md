@@ -128,6 +128,12 @@ Ideas that are not decided. Most came from Claude.
   the older Spider-Man saves Miles and Miles still has to escape. (Author's
   maybe. That he carries the thing home is decided.)
 - "Maybe they are poor." (Brainstorm.)
+- The accident: "kind of like Man of Steel tornado maybe, but people hate
+  that." (Brainstorm.) Keep the picture: a huge storm, one brother in it, the
+  other unable to reach him. Avoid what people hated: a death the watcher could
+  have stopped, and a reason too small for the cost. One plain version: the
+  brother gets the kid clear, goes back for the item, gets it to him, and is
+  taken.
 - A loop: the ending starts someone else's journey. (The author floated "a loop
   sort of thing to start again"; its shape is undecided.)
 - The kid teaches the orphan what his brother taught him.
