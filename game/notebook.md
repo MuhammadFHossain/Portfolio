@@ -64,6 +64,8 @@ Quotes are the author's own words.
 - "A joker, fun, charismatic."
 - "The better one": brave and much stronger. "You think he is the main
   character and maybe you play as him."
+- The player plays as him, and for a long time: "it should be long, you should
+  think you are playing as the brother for the game."
 - He dies, early. The kid has to "pick up the slack". "It's a devastating
   thing."
 - He "dies trying to save both his brother and his mother (through the item
@@ -124,7 +126,8 @@ Quotes are the author's own words.
    stretch after the storm.
 3. What the sacrifice at the end is, and what it is for. It is not a death.
 4. What happens to the orphan.
-5. How long the player gets with the brother before the storm.
+5. How the game keeps it secret, inside and outside the game, that the brother
+   is not the hero.
 6. With no villain, what stands in his way on the road home.
 7. Who the friends on the road are.
 8. What the player does from moment to moment.
@@ -152,6 +155,8 @@ Ideas that are not decided. Most came from Claude.
   have stopped, and a reason too small for the cost.
 - The first thing he does after the storm is check the satchel. (Claude's
   idea.)
+- While playing the brother, the player looks after the kid. Later, as the
+  kid, the player looks after the orphan. (Claude's noticing.)
 - Around the brother's death (brainstorm). The kid is already carrying the
   item, so saving the kid saves both. The player does the holding as the
   brother, then becomes the kid. He jokes to keep the kid calm, right to the
