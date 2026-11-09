@@ -50,6 +50,8 @@ Quotes are the author's own words.
   generous, standing tall but still not brash at all, mild and mannered and
   elegant."
 - He is not a Strider type who becomes a king.
+- After his brother dies, what he wants most is "to bring him back. He can't
+  imagine life without him. He has no idea what to do."
 
 **The older brother**
 
@@ -68,6 +70,7 @@ Quotes are the author's own words.
 - Gifts, "kind of like JoJo's".
 - They are "powers that they have to uncover inside". They are not things
   handed over by other people.
+- Not overdone.
 - The player doesn't throw powers around. "They kind of have to give it all up
   to complete it, and it sucks but it's the right thing." Like Aunt May's
   sacrifice in Spider-Man.
@@ -80,8 +83,9 @@ Quotes are the author's own words.
 
 ## Open
 
-1. If the powers are inside him, what it means to give them all up.
-2. What the kid wants after his brother dies.
+1. What "give it all up" means for powers that are inside a person, or
+   borrowed.
+2. What the kid does first, right after his brother dies.
 3. What he gives everything up for at the end.
 4. What happens to the orphan.
 5. How the brother dies, how early, and what the kid does in that moment.
@@ -95,6 +99,10 @@ Quotes are the author's own words.
 
 Ideas that are not decided. Most came from Claude.
 
+- Powers are "really random", the JoJo way. The author hasn't seen that in
+  games. (Author's aside.)
+- "Maybe the main character never has it, and needs to borrow somehow, kind of
+  like Sokka maybe, or All Might style." (Author's aside.)
 - A loop: the ending starts someone else's journey. (The author floated "a loop
   sort of thing to start again"; its shape is undecided.)
 - The brothers leave home to find food for the family.
@@ -110,7 +118,6 @@ Ideas that are not decided. Most came from Claude.
 
 - Flower fields as memorials, the two bedrolls, "every gift has a giver".
   Too forced.
-- Gifts handed over by friends, passed on by the brother, or borrowed and
-  given back. Gifts are uncovered inside a person.
+- Friends on the road each handing him a gift.
 - Earlier directions: Slivers (a life seen through windows), The Night Ferry,
   The Courier, the guardian's oath.
