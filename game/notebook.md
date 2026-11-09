@@ -1,0 +1,112 @@
+# Game notebook
+
+A running record of the game's story. Three lists: decided, open and parked.
+Only the author moves something to decided.
+
+## How we work
+
+- One small question at a time. Half an answer is fine, and so is "I don't know yet."
+- The author's words first. Claude says back what it heard before adding anything.
+- Claude asks before offering ideas, and offers one or two plain ones.
+- When something feels off, we stop there.
+- Scenes before plot.
+- No building until the author says so.
+
+## Decided
+
+Quotes are the author's own words.
+
+**What the player should come away with** (never said in the game)
+
+- We only see a slice of each other's lives. "Parents don't see the end of my
+  life, spouse doesn't see the start of it, we see slivers."
+- Honour: "see the evil but still choose to do good, regardless of if it is
+  rewarded."
+
+**The feeling of the ending**
+
+- Frodo returning to the Shire: "nobody knows what just happened, and nobody
+  will really understand."
+- "The return gets you back to humility and base."
+
+**The game**
+
+- A fantasy open world, beautiful, "flowers fluttering", kind of inspired by
+  Ghost of Tsushima. Made for iPhone.
+- "A game of journey, meeting new friends, seeing a sliver, and somehow getting
+  to see more than another would, and in the end coming home."
+- It starts with "something by accident".
+- Not built like Lord of the Rings.
+- Show, don't tell. "The whole game has to be like that."
+- For everyone, made with adults in mind. (Claude's reading; not yet confirmed.)
+
+**The kid**
+
+- "Not shy per se but just not brave, but he actually is. Brave is when there
+  is something to be brave about."
+- His bravery is for family or a friend. "It just comes out, and he doesn't
+  even realize it." Like Sam.
+- At the end: "confident but humble and honourable, kind and gentle and
+  generous, standing tall but still not brash at all, mild and mannered and
+  elegant."
+- He is not a Strider type who becomes a king.
+
+**The older brother**
+
+- "The better one": brave and much stronger. "You think he is the main
+  character and maybe you play as him."
+- He dies, early. The kid has to "pick up the slack". "It's a devastating
+  thing."
+
+**The orphan**
+
+- Later the kid finds a younger orphan "to take care of and elevate, and finds
+  himself on the way."
+
+**Gifts**
+
+- Gifts, "kind of like JoJo's".
+- The player doesn't throw powers around. "They kind of have to give it all up
+  to complete it, and it sucks but it's the right thing." Like Aunt May's
+  sacrifice in Spider-Man.
+- Losing them is fine. "It could even help them close and end the game."
+
+**The world**
+
+- People are stingy. "Just how they are."
+- There is a famine.
+
+## Open
+
+1. What "gifts" means: powers a person has in them, or things handed to him.
+2. What the kid wants after his brother dies.
+3. What he gives everything up for at the end.
+4. What happens to the orphan.
+5. How the brother dies, how early, and what the kid does in that moment.
+6. What the accident is, and why the brothers are away from home.
+7. Who the friends on the road are.
+8. What the player does from moment to moment.
+9. The look of the world, and names.
+
+## Parked
+
+Ideas that are not decided. Most came from Claude.
+
+- A loop: the ending starts someone else's journey. (The author floated "a loop
+  sort of thing to start again"; its shape is undecided.)
+- The brothers leave home to find food for the family.
+- The kid teaches the orphan what his brother taught him.
+- The kid froze when his brother died and thinks he is a coward.
+- Borrowed gifts that he gives away, and one gift of his own that he keeps.
+- His journal leaves himself out. Strangers tell his story and he doesn't
+  recognise it.
+- Help left on the road for other real players.
+- Engine: Unity 6, built on the author's Mac. First build: one meadow.
+- Size: a small, dense world instead of a huge one.
+
+## Dropped
+
+- Flower fields as memorials, the two bedrolls, "every gift has a giver".
+  Too forced.
+- Earlier directions: Slivers (a life seen through windows), The Night Ferry,
+  The Courier, the guardian's oath.
