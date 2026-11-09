@@ -80,6 +80,9 @@ Quotes are the author's own words.
   What did I do? It's a shocking moment."
 - Then the game lets them "breathe and try to pick up the pieces and figure out
   what to do. Slow it down all the way for a bit."
+- When it is quiet: "he is cold, there is water and debris, he is scared,
+  dirty." The thing is "in his satchel or something". "Even he doesn't know
+  where he is."
 
 **The mother**
 
@@ -117,8 +120,8 @@ Quotes are the author's own words.
    stretch after the storm.
 3. What the sacrifice at the end is, and what it is for. It is not a death.
 4. What happens to the orphan.
-5. What the kid does once he is through, and how early in the game this
-   happens.
+5. Whether the kid sees his brother die, or is swept away not knowing. How
+   early in the game this happens.
 6. With no villain, what stands in his way on the road home.
 7. Who the friends on the road are.
 8. What the player does from moment to moment.
@@ -144,6 +147,9 @@ Ideas that are not decided. Most came from Claude.
   that." (Brainstorm.) Keep the picture: a huge storm, one brother in it, the
   other unable to reach him. Avoid what people hated: a death the watcher could
   have stopped, and a reason too small for the cost.
+- "Maybe even swept away far, lost." (Brainstorm.) Claude thinks it works: it
+  explains why the way back is hard when getting there wasn't, and the player
+  is lost along with him. The first thing he does is check the satchel.
 - Around the brother's death (brainstorm). The kid is already carrying the
   item, so saving the kid saves both. The player does the holding as the
   brother, then becomes the kid. He jokes to keep the kid calm, right to the
