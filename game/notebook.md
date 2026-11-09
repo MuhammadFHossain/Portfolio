@@ -66,6 +66,8 @@ Quotes are the author's own words.
 **Gifts**
 
 - Gifts, "kind of like JoJo's".
+- They are "powers that they have to uncover inside". They are not things
+  handed over by other people.
 - The player doesn't throw powers around. "They kind of have to give it all up
   to complete it, and it sucks but it's the right thing." Like Aunt May's
   sacrifice in Spider-Man.
@@ -78,7 +80,7 @@ Quotes are the author's own words.
 
 ## Open
 
-1. What "gifts" means: powers a person has in them, or things handed to him.
+1. If the powers are inside him, what it means to give them all up.
 2. What the kid wants after his brother dies.
 3. What he gives everything up for at the end.
 4. What happens to the orphan.
@@ -87,6 +89,7 @@ Quotes are the author's own words.
 7. Who the friends on the road are.
 8. What the player does from moment to moment.
 9. The look of the world, and names.
+10. Who has powers, and how one gets uncovered.
 
 ## Parked
 
@@ -97,7 +100,6 @@ Ideas that are not decided. Most came from Claude.
 - The brothers leave home to find food for the family.
 - The kid teaches the orphan what his brother taught him.
 - The kid froze when his brother died and thinks he is a coward.
-- Borrowed gifts that he gives away, and one gift of his own that he keeps.
 - His journal leaves himself out. Strangers tell his story and he doesn't
   recognise it.
 - Help left on the road for other real players.
@@ -108,5 +110,7 @@ Ideas that are not decided. Most came from Claude.
 
 - Flower fields as memorials, the two bedrolls, "every gift has a giver".
   Too forced.
+- Gifts handed over by friends, passed on by the brother, or borrowed and
+  given back. Gifts are uncovered inside a person.
 - Earlier directions: Slivers (a life seen through windows), The Night Ferry,
   The Courier, the guardian's oath.
