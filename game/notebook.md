@@ -94,6 +94,7 @@ Quotes are the author's own words.
 8. What the player does from moment to moment.
 9. The look of the world, and names.
 10. Who has powers, and how one gets uncovered.
+11. Where "there" is: the place the brothers set out to reach.
 
 ## Parked
 
@@ -103,6 +104,11 @@ Ideas that are not decided. Most came from Claude.
   games. (Author's aside.)
 - "Maybe the main character never has it, and needs to borrow somehow, kind of
   like Sokka maybe, or All Might style." (Author's aside.)
+- After the brother dies, "we can either see him back home or he has to find a
+  way back." The author leans to the second: "maybe the point of the game was
+  to get there and it wasn't so hard, and now he is stuck there and has to make
+  it back." Like the Spider-Verse scene where the older Spider-Man saves Miles
+  and Miles still has to escape. (Author's maybe.)
 - A loop: the ending starts someone else's journey. (The author floated "a loop
   sort of thing to start again"; its shape is undecided.)
 - The brothers leave home to find food for the family.
