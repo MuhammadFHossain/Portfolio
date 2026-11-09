@@ -74,6 +74,13 @@ Quotes are the author's own words.
 - How: he holds something so the kid can get through, "with him trying but it
   just doesn't work. It's almost hopeful it will, but it's just not enough."
 
+**Right after the brother dies**
+
+- "Even the person who's playing is a little scared, like, what just happened?
+  What did I do? It's a shocking moment."
+- Then the game lets them "breathe and try to pick up the pieces and figure out
+  what to do. Slow it down all the way for a bit."
+
 **The mother**
 
 - A mother is waiting at home. "She is very sick. He can't lose them both, and
@@ -106,7 +113,8 @@ Quotes are the author's own words.
 
 1. What "give it all up" means for powers that are inside a person, or
    borrowed.
-2. What the kid does first, right after his brother dies.
+2. What the pieces are: what is around the kid, and what he does, in the slow
+   stretch after the storm.
 3. What the sacrifice at the end is, and what it is for. It is not a death.
 4. What happens to the orphan.
 5. What the kid does once he is through, and how early in the game this
@@ -117,7 +125,8 @@ Quotes are the author's own words.
 9. The look of the world, and names.
 10. Who has powers, and how one gets uncovered.
 11. Where "there" is, and what the something that can save her is.
-12. How the player knows that nothing they did could have saved the brother.
+12. How the player can feel "what did I do?" without thinking they failed and
+    trying again.
 ## Parked
 
 Ideas that are not decided. Most came from Claude.
