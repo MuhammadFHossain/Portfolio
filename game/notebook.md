@@ -66,6 +66,8 @@ Quotes are the author's own words.
   character and maybe you play as him."
 - The player plays as him, and for a long time: "it should be long, you should
   think you are playing as the brother for the game."
+- As him, "you should build some abilities too, get stronger too, feel like
+  you will be him."
 - He dies, early. The kid has to "pick up the slack". "It's a devastating
   thing."
 - He "dies trying to save both his brother and his mother (through the item
