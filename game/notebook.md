@@ -47,6 +47,7 @@ Quotes are the author's own words.
 
 **The kid**
 
+- "Timid."
 - "Not shy per se but just not brave, but he actually is. Brave is when there
   is something to be brave about."
 - His bravery is for family or a friend. "It just comes out, and he doesn't
@@ -60,6 +61,7 @@ Quotes are the author's own words.
 
 **The older brother**
 
+- "A joker, fun, charismatic."
 - "The better one": brave and much stronger. "You think he is the main
   character and maybe you play as him."
 - He dies, early. The kid has to "pick up the slack". "It's a devastating
@@ -70,6 +72,7 @@ Quotes are the author's own words.
 - A mother is waiting at home. "She is very sick. He can't lose them both, and
   the player can't allow that."
 - The brothers' trip "was to get something to use to save her."
+- When his brother dies, the kid "has it and has to carry it home."
 
 **The orphan**
 
@@ -106,8 +109,6 @@ Quotes are the author's own words.
 9. The look of the world, and names.
 10. Who has powers, and how one gets uncovered.
 11. Where "there" is, and what the something that can save her is.
-12. Whether the kid has it with him when his brother dies.
-
 ## Parked
 
 Ideas that are not decided. Most came from Claude.
@@ -116,11 +117,10 @@ Ideas that are not decided. Most came from Claude.
   games. (Author's aside.)
 - "Maybe the main character never has it, and needs to borrow somehow, kind of
   like Sokka maybe, or All Might style." (Author's aside.)
-- After the brother dies, "we can either see him back home or he has to find a
-  way back." The author leans to the second: "maybe the point of the game was
-  to get there and it wasn't so hard, and now he is stuck there and has to make
-  it back." Like the Spider-Verse scene where the older Spider-Man saves Miles
-  and Miles still has to escape. (Author's maybe.)
+- "Maybe the point of the game was to get there and it wasn't so hard, and now
+  he is stuck there and has to make it back." Like the Spider-Verse scene where
+  the older Spider-Man saves Miles and Miles still has to escape. (Author's
+  maybe. That he carries the thing home is decided.)
 - "Maybe they are poor." (Brainstorm.)
 - A loop: the ending starts someone else's journey. (The author floated "a loop
   sort of thing to start again"; its shape is undecided.)
