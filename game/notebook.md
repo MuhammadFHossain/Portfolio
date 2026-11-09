@@ -68,6 +68,9 @@ Quotes are the author's own words.
   thing."
 - He "dies trying to save both his brother and his mother (through the item
   that will save her)."
+- What kills him is "the world, something by accident". Nobody is to blame.
+  There is no revenge arc: "the revenge arc would suck, and becomes closer to
+  Big Hero 6."
 
 **The mother**
 
@@ -104,9 +107,9 @@ Quotes are the author's own words.
 2. What the kid does first, right after his brother dies.
 3. What the sacrifice at the end is, and what it is for. It is not a death.
 4. What happens to the orphan.
-5. What the brother is saving them from, how early it happens, and what the
-   kid does in that moment.
-6. What the "something by accident" is, now that the trip is on purpose.
+5. What the accident looks like, how early it happens, and what the kid does
+   in that moment.
+6. With no villain, what stands in his way on the road home.
 7. Who the friends on the road are.
 8. What the player does from moment to moment.
 9. The look of the world, and names.
@@ -142,5 +145,6 @@ Ideas that are not decided. Most came from Claude.
 - Friends on the road each handing him a gift.
 - Both brothers being orphans. A mother waiting at home felt right.
 - The trip being for food. It is to get something to save their mother.
+- A person causing the brother's death, and any revenge arc.
 - Earlier directions: Slivers (a life seen through windows), The Night Ferry,
   The Courier, the guardian's oath.
