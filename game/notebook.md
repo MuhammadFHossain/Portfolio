@@ -134,7 +134,8 @@ Quotes are the author's own words.
 7. Who the friends on the road are.
 8. What the player does from moment to moment.
 9. The look of the world, and names.
-10. Who has powers, and how one gets uncovered.
+10. Who has powers, and how one gets uncovered. Whether the brother's rope is
+    a skill anyone could learn, or his power.
 11. Where "there" is, and what the something that can save her is.
 12. How the player can feel "what did I do?" without thinking they failed and
     trying again.
@@ -155,6 +156,13 @@ Ideas that are not decided. Most came from Claude.
   that." (Brainstorm.) Keep the picture: a huge storm, one brother in it, the
   other unable to reach him. Avoid what people hated: a death the watcher could
   have stopped, and a reason too small for the cost.
+- The brother's ability (brainstorm): "some sort of sly, cheeky, maybe chain
+  swords, but I don't want it too close to God of War, maybe like Scorpion
+  style fighting ability, swing with it to carry the brother, make bridges
+  with it." Claude's take: one rope or chain with a hook, a tool before it is
+  a weapon, which keeps it away from God of War. The bridge he holds in the
+  storm is the same move the player has made all along. Without it, every gap
+  he crossed in a second is a problem for the kid.
 - The first thing he does after the storm is check the satchel. (Claude's
   idea.)
 - While playing the brother, the player looks after the kid. Later, as the
