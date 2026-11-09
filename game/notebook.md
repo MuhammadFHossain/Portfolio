@@ -134,8 +134,9 @@ Quotes are the author's own words.
 7. Who the friends on the road are.
 8. What the player does from moment to moment.
 9. The look of the world, and names.
-10. Who has powers, and how one gets uncovered. Whether the brother's rope is
-    a skill anyone could learn, or his power.
+10. Who has powers, and how one gets uncovered. Whether the kid's ever shows.
+    ("Give it all up" assumes he has something; "maybe the main character
+    never has it" says he doesn't.)
 11. Where "there" is, and what the something that can save her is.
 12. How the player can feel "what did I do?" without thinking they failed and
     trying again.
@@ -163,6 +164,12 @@ Ideas that are not decided. Most came from Claude.
   a weapon, which keeps it away from God of War. The bridge he holds in the
   storm is the same move the player has made all along. Without it, every gap
   he crossed in a second is a problem for the kid.
+- Where the brother's ability comes from (brainstorm): "something from inside
+  maybe, like it's summoned? I don't know, or he practiced and is good, or you
+  get the skill like Avatar, when you're old enough you show you have it."
+  Claude's take: all three can be true at once. A gift comes from inside, it
+  shows up around a certain age, and you get good with practice. The
+  brother's is the chain. The kid's hasn't shown.
 - The first thing he does after the storm is check the satchel. (Claude's
   idea.)
 - While playing the brother, the player looks after the kid. Later, as the
