@@ -66,6 +66,8 @@ Quotes are the author's own words.
   character and maybe you play as him."
 - He dies, early. The kid has to "pick up the slack". "It's a devastating
   thing."
+- He "dies trying to save both his brother and his mother (through the item
+  that will save her)."
 
 **The mother**
 
@@ -102,8 +104,9 @@ Quotes are the author's own words.
 2. What the kid does first, right after his brother dies.
 3. What the sacrifice at the end is, and what it is for. It is not a death.
 4. What happens to the orphan.
-5. How the brother dies, how early, and what the kid does in that moment.
-6. What the accident is, and why the brothers are away from home.
+5. What the brother is saving them from, how early it happens, and what the
+   kid does in that moment.
+6. What the "something by accident" is, now that the trip is on purpose.
 7. Who the friends on the road are.
 8. What the player does from moment to moment.
 9. The look of the world, and names.
