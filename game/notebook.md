@@ -63,6 +63,11 @@ Quotes are the author's own words.
 - He dies, early. The kid has to "pick up the slack". "It's a devastating
   thing."
 
+**The mother**
+
+- A mother is waiting at home. "She is very sick. He can't lose them both, and
+  the player can't allow that."
+
 **The orphan**
 
 - Later the kid finds a younger orphan "to take care of and elevate, and finds
@@ -97,7 +102,9 @@ Quotes are the author's own words.
 8. What the player does from moment to moment.
 9. The look of the world, and names.
 10. Who has powers, and how one gets uncovered.
-11. Where "there" is: the place the brothers set out to reach.
+11. Where "there" is: the place the brothers set out to reach, and whether the
+    trip is for their mother.
+12. Whether he gets home in time, and whether his mother lives.
 
 ## Parked
 
@@ -112,10 +119,9 @@ Ideas that are not decided. Most came from Claude.
   to get there and it wasn't so hard, and now he is stuck there and has to make
   it back." Like the Spider-Verse scene where the older Spider-Man saves Miles
   and Miles still has to escape. (Author's maybe.)
-- Who the brothers are (brainstorm): "maybe they are both orphans, or maybe
-  their mother asked them to do something", "maybe they are poor". Claude leans
-  to a poor mother at home who sends them on an ordinary errand, because it
-  gives him someone to come home to.
+- "Maybe their mother asked them to do something", "maybe they are poor".
+  (Brainstorm.) One plain version: she sends them to a town to sell the last
+  thing they have and bring back food.
 - A loop: the ending starts someone else's journey. (The author floated "a loop
   sort of thing to start again"; its shape is undecided.)
 - The brothers leave home to find food for the family.
@@ -132,5 +138,6 @@ Ideas that are not decided. Most came from Claude.
 - Flower fields as memorials, the two bedrolls, "every gift has a giver".
   Too forced.
 - Friends on the road each handing him a gift.
+- Both brothers being orphans. A mother waiting at home felt right.
 - Earlier directions: Slivers (a life seen through windows), The Night Ferry,
   The Courier, the guardian's oath.
